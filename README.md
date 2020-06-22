@@ -1,2 +1,2 @@
 # cpaphelmet
-Open source, low cost CPAP Helmet 3d printable parts for non invasive oxygenation treatment
+Open source, low cost 3d printable CPAP Helmet parts for non invasive oxygenation treatment.
